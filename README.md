@@ -14,7 +14,7 @@ BudgetTracker is a simple Progressive Web App that allows you to track spending 
 
 You can access a sample deployment [here](https://floating-harbor-48395.herokuapp.com/)
 
-[!](/public/images/screenshot.png)
+![screenshot](/public/images/screenshot.png)
 
 ## License
 
